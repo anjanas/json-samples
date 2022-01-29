@@ -1,0 +1,904 @@
+{
+  "transactions": [
+    {
+      "id": "6090b0556d5627b4b8a97656",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-04-22T20:35:02+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$14.63",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055cc455c34f8a6adeb",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-03-21T07:58:35+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$7.49",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055716a524eacf75556",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-03-18T04:32:28+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$58.14",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05524293dab7782f99d",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-02-08T12:37:41+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$5.95",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055146b4472ddcae80b",
+      "details": "India Garden Dine-in",
+      "timestamp": "2021-02-27T13:06:04+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$35.72",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0556492dc09d4385b48",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-02-21T04:41:00+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$21.48",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055787d317f27f2ddee",
+      "details": "Target at Market St.",
+      "timestamp": "2021-01-02T10:04:00+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$63.01",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0552ce3981b6d9cd4f1",
+      "details": "Costco Gas",
+      "timestamp": "2021-04-20T16:22:37+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$93.60",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055db20900c56074540",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-01-06T18:03:38+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$5.20",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a78b95358402cd6d",
+      "details": "Farmers Market",
+      "timestamp": "2021-01-27T15:59:34+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$28.27",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055d6e6cadc2e648e54",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-03-05T00:26:58+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$33.47",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0550d0537f475a25309",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-04-07T18:26:32+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$77.08",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055e7fd1f67f9172c27",
+      "details": "Target at Market St.",
+      "timestamp": "2021-04-29T00:46:17+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$27.70",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055290f30458b373e47",
+      "details": "British Airways",
+      "timestamp": "2021-02-01T23:29:35+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$61.07",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055dd14cd6baa2c846e",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-02-09T16:05:20+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$20.27",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05570b74c090970e0c1",
+      "details": "Farmers Market",
+      "timestamp": "2021-01-25T12:07:52+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$92.94",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055ae21bf5dbf27fa73",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-04-23T03:25:59+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$82.90",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055ac267bfd5672b107",
+      "details": "Costco Gas",
+      "timestamp": "2021-04-15T01:40:26+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$13.21",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05567da10f5634a14b8",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-03-15T11:17:25+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$9.93",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0555efba26f12fd9937",
+      "details": "British Airways",
+      "timestamp": "2021-01-19T03:19:55+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$28.50",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05500817e851c197539",
+      "details": "British Airways",
+      "timestamp": "2021-03-08T14:42:13+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$92.75",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055c7a098497371be7c",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-04-09T22:13:25+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$27.17",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055194a2c29819a0dd2",
+      "details": "Target at Market St.",
+      "timestamp": "2021-02-26T02:42:01+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$98.29",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553cefb727143e1267",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-03-03T11:49:05+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$89.47",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a80ec6c0f5f34f71",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-03-05T09:53:12+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$46.30",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05527431f811b8cea87",
+      "details": "India Garden Dine-in",
+      "timestamp": "2021-01-18T02:43:18+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$21.91",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055ef5738c9f9a32388",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-04-03T22:50:25+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$69.49",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055896808ee56ed8907",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-03-25T14:35:32+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$38.87",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05525d533b00ab6ee5c",
+      "details": "Farmers Market",
+      "timestamp": "2021-01-20T05:57:36+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$18.25",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0554c9476839abbe321",
+      "details": "India Garden Dine-in",
+      "timestamp": "2021-04-22T14:36:40+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$27.08",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0550f8acc465af181b0",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-01-04T07:29:21+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$67.21",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05540f7cee5e6f7fea6",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-01-12T06:02:46+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$30.80",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0555341f91abfe448d8",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-02-21T20:54:07+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$53.06",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0554a5fca02bc332c1d",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-02-17T09:36:02+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$92.94",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0558077a6390753196e",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-01-31T13:07:35+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$16.25",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055fb295f87de1a7d0f",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-02-08T12:04:09+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$29.26",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0550944dc53a7d9a114",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-01-18T03:55:01+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$65.60",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a6cd4ec428dccb49",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-04-29T11:12:26+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$87.58",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0559159da84b56e37ef",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-03-30T07:18:45+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$74.65",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0558f1f1ecb6cd01bba",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-03-02T19:20:22+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$34.91",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0551e9442e9c497be2b",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-03-26T21:20:08+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$4.70",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a64fb7f71279fd76",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-03-08T18:56:54+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$68.45",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055e3e90b2f64bfc14e",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-04-18T17:31:30+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$99.42",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0559815cd72d0e3d3cd",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-04-23T06:31:55+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$9.06",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05534438e14b93b206e",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-04-12T15:14:48+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$32.24",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0550b745f88bbe7db18",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-04-19T17:30:56+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$5.72",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055dc30db92e21e2171",
+      "details": "India Garden Dine-in",
+      "timestamp": "2021-03-10T08:21:36+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$62.09",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055f40df95377be6bcd",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-01-10T21:45:51+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$6.32",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055c11dd3ef068c904d",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-04-24T00:43:08+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$79.90",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0551b4b682d4be6d997",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-03-14T10:09:24+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$63.76",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055363bad6cc4b7fe5c",
+      "details": "Costco Gas",
+      "timestamp": "2021-02-12T20:11:24+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$46.84",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05595da55c49ac5e0e8",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-02-22T07:45:48+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$33.36",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055f2b6a0b9b9d0dd9b",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-02-19T12:25:31+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$21.20",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05510a44a694fe1276e",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-04-10T06:52:46+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$47.18",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05566b2f1b8b079f6f1",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-02-19T18:51:04+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$19.42",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055f449f54c7371623b",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-04-25T17:17:44+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$45.50",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0557f6b16dfd120731a",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-03-23T16:22:40+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$32.31",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055b66ae8808393f4fe",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-03-09T09:48:59+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$18.19",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055e9653b41b3b6fc9b",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-01-12T12:21:07+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$24.02",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055fddfaceb4dfa6554",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-02-07T21:03:24+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$91.60",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05584b681142c83dca6",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-04-27T20:01:04+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$59.79",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055c64a890dfd9f7d5f",
+      "details": "Costco Gas",
+      "timestamp": "2021-04-21T05:10:20+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$27.51",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055410f9bc19ace53de",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-01-21T09:15:45+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$28.25",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055da164660350546f7",
+      "details": "Farmers Market",
+      "timestamp": "2021-02-13T13:01:24+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$50.34",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553e78b6a7405b6b7f",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-03-07T10:47:49+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$61.99",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055fe341f86e0cf4ba6",
+      "details": "Apple Retail Online",
+      "timestamp": "2021-04-21T00:15:03+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$96.16",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05544c1c00d7edb0e63",
+      "details": "Target at Market St.",
+      "timestamp": "2021-03-25T00:16:59+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$85.13",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055061dea3c6264b384",
+      "details": "Target at Market St.",
+      "timestamp": "2021-01-14T04:16:54+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$81.82",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0551c2f3b9cff9717d2",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-03-18T18:06:03+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$81.54",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553a2d97f7c55d672e",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-03-03T13:38:23+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$72.94",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0556972c7efc22c9758",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-01-24T13:42:50+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$27.74",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055afc3b6c330f27415",
+      "details": "Farmers Market",
+      "timestamp": "2021-02-17T19:07:51+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$94.15",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05583b819a1e93f43dc",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-02-06T02:43:33+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$11.47",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0555d334ef65b144657",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-01-27T20:09:27+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$78.55",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055d92224bff725cc3e",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-03-09T08:31:20+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$15.18",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055b14f3dddc58a06c1",
+      "details": "British Airways",
+      "timestamp": "2021-03-13T16:12:49+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$21.14",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055ddb6b4ce7c3d19fa",
+      "details": "Farmers Market",
+      "timestamp": "2021-02-18T14:12:45+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$74.08",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0550d7e3898e273b669",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-01-16T12:35:31+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$52.31",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055f33b520ac5321d65",
+      "details": "San Ramon Farmers Market",
+      "timestamp": "2021-03-31T00:23:30+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$80.69",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0559c0b1f8b4850c2f9",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-01-10T08:33:44+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$53.76",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05523e12c00409cc5f3",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-01-30T15:40:19+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$52.43",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055413581d8c17d942d",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-01-22T10:01:06+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$30.78",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05572a290d80d58a8e2",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-01-26T01:43:09+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$13.91",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055f02c223d5db086ec",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-01-03T22:44:57+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$90.02",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05574250b13efa4993c",
+      "details": "Sweet Tomatoes",
+      "timestamp": "2021-04-15T14:30:49+00:00",
+      "categoryCode": "122",
+      "merchantType": "RESTAURANTS",
+      "amount": "$22.17",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055db6ce648551df53b",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-01-30T00:03:13+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$76.59",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05526313174ad581c0a",
+      "details": "Cashback from Apple Inc.",
+      "timestamp": "2021-04-25T22:42:50+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$68.15",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553a320c184417ddce",
+      "details": "Farmers Market",
+      "timestamp": "2021-03-03T04:32:57+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$29.55",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553dac212ee56cd711",
+      "details": "Costco Gas",
+      "timestamp": "2021-01-24T20:00:59+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$35.11",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055d7d40f2d1097e3d6",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-05-02T01:24:11+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$10.53",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a8d7ede03a2a8a3a",
+      "details": "Farmers Market",
+      "timestamp": "2021-01-24T10:16:55+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$65.58",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055e17c221a668651de",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-02-21T10:18:26+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$50.56",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05576cab6e4091037cc",
+      "details": "Farmers Market",
+      "timestamp": "2021-04-11T20:49:49+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$28.85",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055a9248b58f77e9a6e",
+      "details": "British Airways",
+      "timestamp": "2021-02-05T05:10:36+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$15.74",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0553229ca1c5704f520",
+      "details": "Whole Foods Restaurant & Bar",
+      "timestamp": "2021-01-18T15:29:07+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$36.45",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05535d3b9bb1f8c1be2",
+      "details": "Target at Market St.",
+      "timestamp": "2021-01-25T18:10:36+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$26.64",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0551eaee9abed079db3",
+      "details": "Best Buy Inc.",
+      "timestamp": "2021-03-11T10:10:00+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$47.63",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b05581f4ec0ccc2c17b6",
+      "details": "Starbucks Coffee",
+      "timestamp": "2021-03-30T00:14:37+00:00",
+      "categoryCode": "121",
+      "merchantType": "QSR",
+      "amount": "$1.91",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b055d414570c2e77a1df",
+      "details": "British Airways",
+      "timestamp": "2021-01-05T05:00:42+00:00",
+      "categoryCode": "125",
+      "merchantType": "TRAVEL SERVICES",
+      "amount": "$180.85",
+      "txnType": "db"
+    },
+    {
+      "id": "6090b0555eacceb9a8932fc3",
+      "details": "Call Robert for Repair LLC",
+      "timestamp": "2021-03-20T16:48:16+00:00",
+      "categoryCode": "114",
+      "merchantType": "GENERAL RETAIL GOODS",
+      "amount": "$65.07",
+      "txnType": "db"
+    }
+  ]
+}
